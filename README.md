@@ -1,5 +1,5 @@
 # Idea-Session
-Idea Session At Vegg & Vicharak.
+Idea Session At [VEGG](https://vegg.co.in) & [Vicharak](https://vicharak.in).
 
 
 We discuss every month the ideas that we can present. 
