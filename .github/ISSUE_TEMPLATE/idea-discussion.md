@@ -1,17 +1,12 @@
 ---
-name: Idea Discussion
-about: Proper format to describe the idea and solution.
+name: "Human Name"
 title: "[IDEA]"
-labels: ''
-assignees: ''
-
+about: "---"
+labels: "label1, label2"
 ---
 
-Problem / Idea :-
+Problem:
 
+Solution:
 
-Solution :-  
-
-
-
-Implementation:-
+Resources:
